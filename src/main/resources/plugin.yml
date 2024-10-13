@@ -1,0 +1,4 @@
+name: InterceptionLifeStealCore
+version: '${project.version}'
+main: org.solecloth.interceptionlifestealcore.InterceptionLifeStealCore
+api-version: '1.20'

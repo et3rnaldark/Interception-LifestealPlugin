@@ -1,0 +1,4 @@
+name: InterceptionLifeStealCore
+version: '1.00-PRIVATE'
+main: org.solecloth.interceptionlifestealcore.InterceptionLifeStealCore
+api-version: '1.20'
